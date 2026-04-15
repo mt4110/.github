@@ -13,7 +13,6 @@ Included here:
 - `SECURITY.md`
 - `SUPPORT.md`
 - `pull_request_template.md`
-- `profile/README.md`
 
 ## What Stays Out
 
@@ -30,6 +29,8 @@ These concerns do not belong in the shared defaults repository:
 - npm publish settings
 
 Those stay repo-local or in GitHub and npm settings.
+
+Because `mt4110` is currently a user account rather than an organization, this repository does not include `.github/profile/README.md`.
 
 ## Local Overrides
 
